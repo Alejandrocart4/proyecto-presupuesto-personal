@@ -56,12 +56,6 @@ El modelo está normalizado hasta la **Tercera Forma Normal (3FN)**:
 - Lenguaje de programación: C++ o Python (según implementación final)
 - Interfaz de usuario: Qt / Web (según alcance del proyecto)
 
-## Entregables de Semana 4
-1. **Documento de Análisis (PDF):** Descripción del sistema, alcance y reglas de negocio.  
-2. **Modelo Entidad-Relación (Imagen + Fuente DBML).**  
-3. **Modelo Relacional (SQL o DBML comentado):** Normalización hasta 3FN.  
-4. **Diccionario de Datos (Excel o Documento).**
-
 ## Autor
 **Nombre:** Jonny Gómez  
 **Carrera:** Ingeniería en Sistemas Computacionales  
