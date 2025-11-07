@@ -57,7 +57,7 @@ El modelo está normalizado hasta la **Tercera Forma Normal (3FN)**:
 - Interfaz de usuario: Qt / Web (según alcance del proyecto)
 
 ## Autor
-**Nombre:** Jonny Alejandro Gómez Cartagena
+**Nombre:** Jonny Alejandro Gómez Cartagena  
 **Carrera:** Ingeniería en Sistemas Computacionales  
 **Institución:** UNITEC Honduras  
 **Materia:** Estructura de Datos I / Proyecto Integrador  
