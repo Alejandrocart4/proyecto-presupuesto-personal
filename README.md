@@ -59,6 +59,6 @@ El modelo está normalizado hasta la **Tercera Forma Normal (3FN)**:
 ## Autor
 **Nombre:** Jonny Alejandro Gómez Cartagena  
 **Carrera:** Ingeniería en Sistemas Computacionales  
-**Institución:** UNITEC Honduras  
+**Institución:** UNITEC SPS Honduras  
 **Materia:** Estructura de Datos I / Proyecto Integrador  
 **Año:** 2025
