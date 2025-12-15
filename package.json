@@ -1,0 +1,9 @@
+{
+  "name": "presupuesto-consola",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "consola/index.js",
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  }
+}
