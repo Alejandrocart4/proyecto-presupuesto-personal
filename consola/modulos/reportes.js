@@ -8,13 +8,9 @@ export async function balanceMensual() {
   const mes = await preguntar('Mes: ');
 
   const [rows] = await db.query(
-    'CALL sp_calcular_balance_mensual(?, ?, ?, ?, @i, @g, @a, @b)',
+    'CALL sp_calcular_balance_mensual(?,?,?,?)',
     [idUsuario, idPresupuesto, anio, mes]
   );
 
-  const [result] = await db.query(
-    'SELECT @i ingresos, @g gastos, @a ahorros, @b balance'
-  );
-
-  console.table(result);
+  console.table(rows[0]);
 }
